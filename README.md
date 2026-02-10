@@ -43,12 +43,14 @@ After your workouts, the widget displays:
 
 ### Understanding the Numbers
 
-| Load Value | Typical Effort |
-|------------|----------------|
-| 0-50 | Light/Easy workout |
-| 50-100 | Moderate workout |
-| 100-200 | Hard workout |
-| 200+ | Very intense/long workout |
+| 7-Day Total | Status |
+|-------------|--------|
+| 0-150 | Low |
+| 150-400 | Recovery |
+| 400-700 | Maintaining |
+| 700-1000 | Optimal |
+| 1000-1300 | High |
+| 1300+ | Overreaching |
 
 *Note: Values vary based on individual fitness and workout duration*
 
@@ -70,17 +72,6 @@ After your workouts, the widget displays:
 
 - **Sensor**: Required to access heart rate data
 - **UserProfile**: Required to read max HR and resting HR from your profile
-
-## Technical Details
-
-- **App Type**: Data Field
-- **Min SDK Version**: 3.0.0
-- **Language**: Monkey C
-- **Shared UUID**: `63EADDDA-5141-4203-A5F5-0AD3A1299A12` (shared with Training Load Widget)
-
-## Related Projects
-
-- [Training Load Widget](../TrainingLoad) - Companion widget that displays your 7-day training load summary
 
 ## License
 
