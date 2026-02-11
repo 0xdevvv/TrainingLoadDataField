@@ -2,7 +2,7 @@
 
 A Garmin Connect IQ data field that calculates and displays your real-time training load during activities using the TRIMP (Training Impulse) method.
 
-![Uploading Screenshot 2026-02-10 at 17.16.19.png…]()
+<img width="565" height="847" alt="Screenshot 2026-02-10 at 17 16 19" src="https://github.com/user-attachments/assets/8f87a309-e7f3-4c05-a4db-c79c02694cf2" />
 
 ## Purpose
 
