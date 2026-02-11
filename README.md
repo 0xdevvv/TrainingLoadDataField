@@ -2,6 +2,8 @@
 
 A Garmin Connect IQ data field that calculates and displays your real-time training load during activities using the TRIMP (Training Impulse) method.
 
+![Uploading Screenshot 2026-02-10 at 17.16.19.png…]()
+
 ## Purpose
 
 This data field tracks your training intensity during workouts by calculating a training load score based on your heart rate. It works as a companion to the [Training Load Widget](https://apps.garmin.com/apps/63eaddda-5141-4203-a5f5-0ad3a1299a12) (available on the Garmin Connect IQ Store), sharing data so you can view your 7-day training load summary at a glance.
