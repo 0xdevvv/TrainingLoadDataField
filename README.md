@@ -11,10 +11,6 @@ A Garmin Connect IQ data field that calculates and displays your real-time train
 3. Copy the `TrainingLoadField.iq` file to the `GARMIN/APPS` folder on your watch
 4. Safely eject your watch
 
-## Purpose
-
-This data field tracks your training intensity during workouts by calculating a training load score based on your heart rate. It works as a companion to the [Training Load Widget](https://apps.garmin.com/apps/63eaddda-5141-4203-a5f5-0ad3a1299a12) (available on the Garmin Connect IQ Store), sharing data so you can view your 7-day training load summary at a glance.
-
 ## Usage
 
 1. On your Garmin watch, go to an activity (e.g., Run, Bike, etc.)
