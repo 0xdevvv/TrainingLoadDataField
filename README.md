@@ -6,9 +6,9 @@ A Garmin Connect IQ data field that calculates and displays your real-time train
 
 ## Installation
 
-1. Download the `TrainingLoadField` file from the [Releases](../../releases) page
+1. Find & Download the `TrainingLoadField` file for your device from the [Releases](../../releases) page
 2. Connect your Garmin watch to your computer via USB
-3. Copy the `TrainingLoadField` file to the `GARMIN/APPS` folder on your watch
+3. Copy the file to the `GARMIN/APPS` folder on your watch
 4. Safely eject your watch
 
 ## Usage
