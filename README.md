@@ -39,19 +39,6 @@ After your workouts, the widget displays:
 - Training status (Low, Recovery, Maintaining, Optimal, High, Overreaching)
 - Visual load indicator bar
 
-### Understanding the Numbers
-
-| 7-Day Total | Status |
-|-------------|--------|
-| 0-150 | Low |
-| 150-400 | Recovery |
-| 400-700 | Maintaining |
-| 700-1000 | Optimal |
-| 1000-1300 | High |
-| 1300+ | Overreaching |
-
-*Note: Values vary based on individual fitness and workout duration*
-
 ## Supported Devices
 
 - **Forerunner**: 55, 165, 165M, 255 series, 265 series, 955, 965
