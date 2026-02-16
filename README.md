@@ -28,16 +28,8 @@ The data field uses an exponential heart rate-based formula to calculate trainin
 ### Data Storage
 
 - Training load is saved when you stop or end an activity
-- Data is stored in shared application storage with a 7-day rolling history
+- Data is stored in shared application storage with a 28-day rolling history
 - Multiple activities on the same day are accumulated together
-
-### Companion Widget
-
-This data field shares data with the **Training Load Widget**. 
-After your workouts, the widget displays:
-- 7-day total training load
-- Training status (Low, Recovery, Maintaining, Optimal, High, Overreaching)
-- Visual load indicator bar
 
 ## Supported Devices
 
